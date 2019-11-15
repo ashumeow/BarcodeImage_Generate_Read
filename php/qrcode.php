@@ -8,4 +8,6 @@ echo "File written into the directory";
 
 // ashumeow
 
+// credits : https://developers.google.com/chart/infographics/docs/qr_codes
+
 ?>
